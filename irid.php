@@ -17,12 +17,12 @@ function checkCode($code) {
 			$control = $mod;
 		}
 		if ($ten == $control) {
-			return 'ok';
+			return true;
 		} else {
-			return 'no';
+			return false;
 		}
 	} else {
-		return 'no';
+		return false;
 	}
 }
 
