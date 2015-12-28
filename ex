@@ -10,7 +10,7 @@ require_once 'irid.php';
 <body>
 	<form action="" method="post">
 		<input type="text" name="code" placeholder="0123456789">
-		<input type="submit" value="whois" name="submit">
+		<input type="submit" value="Check" name="submit">
 	</form>
 	<br>
 	<?php
