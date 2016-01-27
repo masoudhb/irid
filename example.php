@@ -1,6 +1,3 @@
-<?php
-require_once 'irid.php';
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,6 +12,7 @@ require_once 'irid.php';
 	<br>
 	<?php
 	if (isset($_POST['submit'])) {
+		require_once 'irid.php';
 		$result = whois($_POST['code']);
 		if ($result) {
 			echo 'Valid';
