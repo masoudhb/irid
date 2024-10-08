@@ -1,4 +1,4 @@
 # irid
 A Simple PHP Function To Verify Iranian Id Numbers
 
-Oh boy
+This is new version 1.01
