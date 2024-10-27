@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Documents</title>
+	<title>Example</title>
 </head>
 <body>
 	<form action="" method="post">
